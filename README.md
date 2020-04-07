@@ -1,6 +1,6 @@
 ## Directive games test
 
-### 'yarn install'
+### `yarn install`
 
 In the project directory, you can run:
 
